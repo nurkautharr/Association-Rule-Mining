@@ -1,4 +1,4 @@
-## MARKET BASKET ANALYSIS
+## Market Basket Analysis
 
 #### Skills:
 Python (Programming Language), Association Rule, A-Priori Algorithm

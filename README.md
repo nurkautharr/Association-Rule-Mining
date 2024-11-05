@@ -1,4 +1,4 @@
-## ASSOCIATION RULE MINING
+## MARKET BASKET ANALYSIS
 
 #### Skills:
 Python (Programming Language), Association Rule, A-Priori Algorithm
